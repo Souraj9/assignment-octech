@@ -17,5 +17,5 @@ Please find output screenshot  in output folder
 
 #### Mobile-View :
 
-![mobile-view-ss]([./assets/screen%20short/ph1.png](https://github.com/Souraj9/assignment-octech/blob/master/output/Homepage.png))
+![mobile-view-ss]([Homescreen](./output/Homepage.png))
 
