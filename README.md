@@ -14,7 +14,13 @@
 
 Please find output screenshot  in output folder
 
-### This only a Mobile Responsive Application .
+### This is only a Mobile Responsive Application .
+
+### To View Registration and otp page please follow below step :
+1. click on sidebar and theres is login button
+2. once you logged in and want to logout click on sidebar and there is logout button
+
+Note** no validation done for input field and registration and otp page
 
 
 ## Mobile-View :
