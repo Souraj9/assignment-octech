@@ -17,5 +17,5 @@ Please find output screenshot  in output folder
 
 #### Mobile-View :
 
-![mobile-view-ss]([Homescreen](./output/Homepage.png))
+![mobile-view-ss]([Homescreen](./output/Homepage.png)
 
