@@ -14,9 +14,25 @@
 
 Please find output screenshot  in output folder
 
+### This only a Mobile Responsive Application .
 
-#### Mobile-View :
 
+## Mobile-View :
+
+### Homepage :
 ![Homescreen](./output/Homepage.png))
+
+### Drawer :
+![Homescreen](./output/sidemenu.png))
+
+### Registration Page :
+![Homescreen](./output/registration.png))
+
+### OTP Page :
+![Homescreen](./output/otp.png))
+
+### Logout Page :
+![Homescreen](./output/logout.png))
+
 
 
